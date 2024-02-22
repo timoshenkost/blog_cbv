@@ -1,0 +1,10 @@
+/.env
+/db.sqlite3
+/pyvenv.cfg
+/Lib/
+/cache/
+/Scripts/
+/static/
+/media/images/thumbnails/2024/
+/media/images/avatars/2024/
+/.idea/
