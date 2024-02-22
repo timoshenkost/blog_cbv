@@ -20,4 +20,4 @@
 - HTML/CSS
 - JavaScript
 - Bootstrap
-- База данных MySQL
+- База данных SQLite
